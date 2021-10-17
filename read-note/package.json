@@ -1,0 +1,16 @@
+{
+  "name": "read-json-files",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Isha\"",
+  "license": "AFL-1.2",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
